@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @parisiileo
-- 👀 I’m interested in front end web technologies and jobs, as well as other fields of programming.
-- 🌱 I’m currently learning lua, python and many other things on DSA.
-- 📫 You can reach me at my email: parisii.leonardo@gmail.com
-- ⚡ Fun fact: I've never learnt spanish but I can speak it.
+👋 Hi, I’m @parisiileo!
 
-<!---
-parisiileo/parisiileo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m passionate about front-end web technologies and exploring various fields of programming.
+
+🌱 Currently, I’m diving into Lua, Python, and other areas of Data Structures and Algorithms (DSA).
+
+📫 Feel free to reach out to me at: parisii.leonardo@gmail.com
+
+⚡ Fun fact: Although I’ve never formally learned Spanish, I can speak it quiet fluently!
