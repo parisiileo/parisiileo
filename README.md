@@ -5,5 +5,3 @@
 🌱 Currently, I’m diving into Lua, Python, and other areas of Data Structures and Algorithms (DSA).
 
 📫 Feel free to reach out to me at: parisii.leonardo@gmail.com
-
-⚡ Fun fact: Although I’ve never formally learned Spanish, I can speak it quiet fluently!
